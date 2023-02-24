@@ -1,1 +1,1 @@
-confound-prediction=0.0.1a1
+confound-prediction==0.0.1a1
